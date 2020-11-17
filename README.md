@@ -8,6 +8,7 @@ You can check out my profile at https://exercism.io/profiles/asankov
 ### Medium
 - [Protein Translation](protein-translation)
 - [Bank Account](bank-account)
+- [Error handling](error-handling)
 
 ## License
 
